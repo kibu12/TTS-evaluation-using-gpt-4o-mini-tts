@@ -1,6 +1,3 @@
-Here is a **minimal, clean, professional `README.md`** suitable for GitHub or academic submission:
-
----
 
 # Neural Text-to-Speech (TTS) Evaluation
 
@@ -98,5 +95,3 @@ The evaluation is conducted using the `gpt-4o-mini-tts` model and focuses on lon
 * Cross-lingual testing
 
 ---
-
-If you want, I can also generate an ultra-minimal 10-line version suitable for a portfolio repository.
